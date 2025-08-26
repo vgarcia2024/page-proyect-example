@@ -20,3 +20,11 @@ footer.footer::before {
   );
   opacity: 0.9;
 }
+
+.footer__bottom {
+    max-width: 1000px;
+    margin: 0 auto;
+    text-align: center;
+    font-size: 0.9rem;
+    color: #dcdcdc;
+}
